@@ -1,0 +1,18 @@
+ILLUSTRATIVE SAMPLE - synthetic text for prototype testing only; not actual law or advice.
+
+CBIC Circular (Illustrative) on Input Service Distributor and E-Invoicing
+
+Section 1. Applicability
+This circular, issued by CBIC on the recommendation of the GST Council, clarifies the manner in which an Input Service Distributor (ISD) distributes Input Tax Credit (ITC) to its recipient units. The GST Council discussed the matter at its 57th meeting and recommended a uniform procedure.
+
+Section 2. Distribution of credit
+An ISD shall distribute ITC only to recipients that are registered under GST and shall issue an ISD invoice for each distribution. Rule 39 governs the manner of distribution. Credit attributable to a specific recipient shall be distributed to that recipient alone.
+
+Section 3. E-Invoicing
+E-Invoicing is mandatory for registered persons whose aggregate turnover exceeds the notified threshold of INR 5 crore in the illustrative scenario. The invoice must be reported to the Invoice Registration Portal (IRP) and carry an IRN. An ISD invoice is subject to E-Invoicing only where the notification expressly so provides.
+
+Section 4. Prospective effect
+The clarification on ISD invoices operates prospectively from the date of the circular. The clarification on attribution of credit under Rule 39 is clarificatory and applies retrospectively.
+
+Section 5. Penalty
+Wrongful distribution of ITC by an ISD attracts recovery of the excess credit with interest, and penalty under Section 122 of the GST law.

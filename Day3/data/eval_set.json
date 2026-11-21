@@ -1,0 +1,116 @@
+{
+ "questions": [
+  {
+   "q": "Which authority issues the ISD circular and does the credit attribution clarification apply retrospectively?",
+   "area": "Tax & Regulatory Services",
+   "type": "multi_hop",
+   "facts": [
+    "cbic",
+    "rule 39",
+    "retrospectively"
+   ]
+  },
+  {
+   "q": "What is the consequence of late deposit of TDS under Section 194C context?",
+   "area": "Tax & Regulatory Services",
+   "type": "multi_hop",
+   "facts": [
+    "section 201(1a)",
+    "section 276b"
+   ]
+  },
+  {
+   "q": "Are ISD invoices subject to e-invoicing?",
+   "area": "Tax & Regulatory Services",
+   "type": "keyword",
+   "facts": [
+    "notification expressly"
+   ]
+  },
+  {
+   "q": "What penalty applies if a suspicious transaction is not reported to FIU-IND by a regulated entity?",
+   "area": "Risk Advisory & Governance (GRC)",
+   "type": "multi_hop",
+   "facts": [
+    "section 12 of the pmla",
+    "section 13 of the pmla"
+   ]
+  },
+  {
+   "q": "How must ISO 31000 risk registers relate to BRSR disclosures and who tests the controls?",
+   "area": "Risk Advisory & Governance (GRC)",
+   "type": "vocab",
+   "facts": [
+    "mapped to each brsr disclosure",
+    "internal audit shall test"
+   ]
+  },
+  {
+   "q": "If a material adverse change happens before closing, what can the buyer do, and does FEMA approval count as one?",
+   "area": "Deal Advisory & Corporate Finance",
+   "type": "multi_hop",
+   "facts": [
+    "clause 12.2",
+    "clause 12.3"
+   ]
+  },
+  {
+   "q": "What is the sellers' maximum exposure and how is it secured?",
+   "area": "Deal Advisory & Corporate Finance",
+   "type": "vocab",
+   "facts": [
+    "20 percent of the purchase price",
+    "escrow for 18 months"
+   ]
+  },
+  {
+   "q": "What is the sanction under the statute that the RBI KYC direction is issued under for not filing required reports?",
+   "area": "Risk Advisory & Governance (GRC)",
+   "type": "multi_hop",
+   "facts": [
+    "section 13 of the pmla"
+   ]
+  },
+  {
+   "q": "Can the buyer walk away if EBITDA collapses before completion?",
+   "area": "Deal Advisory & Corporate Finance",
+   "type": "vocab",
+   "facts": [
+    "clause 12.2",
+    "15 percent"
+   ]
+  },
+  {
+   "q": "Which section of the credit-distribution rule makes the attribution clarification apply to past periods?",
+   "area": "Tax & Regulatory Services",
+   "type": "vocab",
+   "facts": [
+    "rule 39",
+    "retrospectively"
+   ]
+  },
+  {
+   "q": "What happens to a non-resident acquirer's share price if below fair value, and who sets that value?",
+   "area": "Deal Advisory & Corporate Finance",
+   "type": "multi_hop",
+   "facts": [
+    "registered valuer",
+    "fair value"
+   ]
+  }
+ ],
+ "entity_gold": {
+  "Central Board of Direct Taxes": "CBDT",
+  "Income Tax Dept": "CBDT",
+  "Tax Authority": "CBDT",
+  "Reserve Bank of India": "RBI",
+  "Know Your Customer": "KYC",
+  "ISD": "Input Service Distributor",
+  "Prevention of Money Laundering Act": "PMLA",
+  "MAC": "Material Adverse Change",
+  "SPA": "Share Purchase Agreement",
+  "Goods and Services Tax": "GST",
+  "e-invoice": "E-Invoicing",
+  "Registered Valuer": "Registered Valuer"
+ }
+}

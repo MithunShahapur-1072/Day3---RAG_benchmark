@@ -1,0 +1,15 @@
+ILLUSTRATIVE SAMPLE - synthetic text for prototype testing only; not actual law or advice.
+
+Governance Control Mapping (Illustrative): BRSR and ISO 31000
+
+Section 1. BRSR disclosures
+SEBI requires listed entities to publish the BRSR annually. The BRSR core disclosures cover environmental, social and governance indicators and must be supported by internal controls.
+
+Section 2. Risk management framework
+ISO 31000 provides principles for risk management: risk identification, analysis, evaluation and treatment. The risk register maintained under ISO 31000 shall be mapped to each BRSR disclosure that depends on it.
+
+Section 3. Internal Audit
+Internal Audit shall test the controls supporting BRSR data at least annually and report exceptions to the audit committee. A control that cannot be mapped to a BRSR obligation is flagged as unmapped.
+
+Section 4. Penalty exposure
+Misstatement in the BRSR may lead to enforcement action by SEBI against the listed entity.

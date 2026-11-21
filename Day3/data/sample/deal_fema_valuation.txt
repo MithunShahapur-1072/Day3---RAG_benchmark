@@ -1,0 +1,15 @@
+ILLUSTRATIVE SAMPLE - synthetic text for prototype testing only; not actual law or advice.
+
+Cross-border Acquisition Note (Illustrative): FEMA and Valuation
+
+Section 1. Foreign Direct Investment
+An acquisition of shares of an Indian company by a non-resident is Foreign Direct Investment under FEMA and must comply with applicable pricing guidelines. The price shall not be lower than the fair value determined by a Registered Valuer.
+
+Section 2. Valuation under Companies Act 2013
+The Companies Act 2013 requires valuation of shares and assets by a Registered Valuer in prescribed cases. The Valuation Report must state the methodology and assumptions.
+
+Section 3. Reporting
+The Indian investee must report the inflow to the RBI within the prescribed time. Delay is a contravention under FEMA that may be compounded on payment of a compounding fee.
+
+Section 4. FCRA
+A recipient of foreign contribution that is governed by FCRA shall not be treated as an investment vehicle for FDI purposes.

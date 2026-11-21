@@ -1,0 +1,15 @@
+langchain-core
+langchain-anthropic
+langchain-text-splitters
+langgraph
+rank-bm25
+scikit-learn
+networkx
+numpy
+plotly
+streamlit
+pypdf
+python-docx
+pandas
+pytest
+# optional, for real BGE embeddings: sentence-transformers  (then set PWC_EMBEDDINGS=bge)

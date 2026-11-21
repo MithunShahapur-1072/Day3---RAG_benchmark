@@ -1,0 +1,13 @@
+ILLUSTRATIVE SAMPLE - synthetic text for prototype testing only; not actual law or advice.
+
+Share Purchase Agreement (Illustrative) - Extracts
+
+Clause 9.1 Indemnity
+The Sellers shall indemnify the Buyer against Losses arising from breach of the Warranties, subject to Clause 9.3 and Clause 12.
+Clause 9.2 Basket
+The Sellers are not liable for claims until aggregate Losses exceed INR 2 crore (the Basket).
+Clause 9.3 Cap
+The aggregate liability of the Sellers under Clause 9.1 shall not exceed 20 percent of the Purchase Price, except for fraud. Amounts equal to 10 percent of the Purchase Price shall be held in Escrow for 18 months to secure the Indemnity.
+
+Clause 12 Material Adverse Change
+A Material Adverse Change means any event that reduces consolidated EBITDA by more than 15 percent, or that results in loss of a licence listed in Schedule 4. Clause 12.2 permits the Buyer to terminate the Share Purchase Agreement if a Material Adverse Change occurs before Closing. Clause 12.3 states that regulatory approvals under FEMA are a condition precedent to Closing and are not a Material Adverse Change.

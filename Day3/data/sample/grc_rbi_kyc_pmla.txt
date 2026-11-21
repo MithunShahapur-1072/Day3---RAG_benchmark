@@ -1,0 +1,18 @@
+ILLUSTRATIVE SAMPLE - synthetic text for prototype testing only; not actual law or advice.
+
+RBI Master Direction (Illustrative) on KYC
+
+Section 1. Scope
+This Master Direction is issued by the RBI under the powers granted by the PMLA and the rules made under it. It applies to all regulated entities.
+
+Section 2. Customer due diligence
+Regulated entities shall carry out KYC at onboarding and shall identify the Beneficial Owner of every legal-entity customer. Enhanced due diligence is required for high-risk customers. Periodic KYC updation is required at intervals determined by risk category.
+
+Section 3. Reporting
+A Suspicious Transaction Report must be furnished to FIU-IND within seven days of the principal officer concluding that a transaction is suspicious, as required under Section 12 of the PMLA.
+
+Section 4. Penalties
+Non-compliance with this Master Direction may attract monetary penalty imposed by the RBI. Failure to report under Section 12 of the PMLA attracts a penalty under Section 13 of the PMLA, and the Director of FIU-IND may recommend further action.
+
+Section 5. Record keeping
+Records of identity and transactions shall be maintained for five years, as required by Section 12 of the PMLA.

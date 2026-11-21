@@ -1,0 +1,15 @@
+ILLUSTRATIVE SAMPLE - synthetic text for prototype testing only; not actual law or advice.
+
+CBDT Notification (Illustrative) on TDS Compliance
+
+Section 1. Background
+CBDT, acting under the Income Tax Act, notifies revised procedures for TDS deduction and reporting. The Income Tax Department will match TDS statements with deductee returns.
+
+Section 2. Threshold and rate
+Section 194C requires TDS on payments to contractors above the annual aggregate threshold specified in the notification. Where the deductee fails to furnish a permanent account number, a higher rate applies as per Section 206AA.
+
+Section 3. Late deposit
+Failure to deposit TDS within the prescribed time attracts interest under Section 201(1A). Continued default may result in prosecution under Section 276B.
+
+Section 4. Effective date
+The revised reporting formats apply prospectively to statements filed after the notification date. The clarification regarding the meaning of contractor in Section 194C is retrospective as it only explains existing law.
